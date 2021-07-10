@@ -1,0 +1,7 @@
+.main-component {
+  text-align: center;
+
+  &__content {
+    color: red;
+  }
+}
